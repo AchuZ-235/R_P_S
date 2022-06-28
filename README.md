@@ -1,7 +1,7 @@
-# R_P_S
+# R-P-S
 
 
-R_P_S is the python version of the popular Rock Paper Scissors game we as kids used to play in childhood
+R-P-S is the python version of the popular Rock Paper Scissors game we as kids used to play in childhood
 
 
 
